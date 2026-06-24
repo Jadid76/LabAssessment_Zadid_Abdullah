@@ -1,0 +1,1 @@
+Use git commit to save the staged changes with a descriptive message.
